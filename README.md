@@ -1,2 +1,2 @@
-# Cron-metro-b-sico
-Um cronômetro simples em uma página da web.
+# Cronômetro-básico
+Um cronômetro simples e intuitivo em uma página da web.
